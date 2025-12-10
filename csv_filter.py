@@ -8,7 +8,8 @@ def filter_csv_blocks(csv_text):
         current_line = lines[i]
         next_line = lines[i + 1]
         if '0400' in current_line and '0001' in next_line:
-            k_nummer_match = re.search(r'0400\s+([KZM]\d+\.\d+|\d{8})', current_line)
+            # k_nummer_match = re.search(r'0400\s+([A-Za-z]\d+\.\d+|\d{8}|[0-9])', current_line)
+            k_nummer_match = re.search(r'0400\s+(.+?)(?:\s{2,})', current_line)
             k_nummer = k_nummer_match.group(1) if k_nummer_match else ''
             artikel_match = re.search(r'0001\s+(.+)', next_line)
             artikel = artikel_match.group(1).strip() if artikel_match else ''

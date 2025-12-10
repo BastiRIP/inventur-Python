@@ -18,7 +18,6 @@ class CSVInventurTool(QWidget):
     def __init__(self):
         super().__init__()
         self.setWindowTitle('CSV Inventur Tool')
-        # Icon aus img-Ordner laden, kompatibel mit PyInstaller
         icon_path = resource_path(os.path.join('img', 'KTN.F.svg'))
         self.setWindowIcon(QIcon(icon_path))
         self.resize(700, 500)
