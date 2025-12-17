@@ -1,0 +1,945 @@
+         INVENTUR-AUFNAHME-LISTE FÜR STICHTAGSINVENTUR
+         ================================================
+
+Lager-Nummer.:  040 Mauerstetten                     Inventur Nr..:  4162
+Lager-Typ....:  150 Kanban                           Seite........:  1/15
+Datum........:  17.12.2025                           Hauptzählung
+
+
+Pos  Lagerplatz Werk Materialnummer.....                    Charge....   Menge.
+     Quantnum.  Lort Materialkurztext...                    B S Sonderbestand
+
+
+
+0001 KANBAN     0400 09000346                               PAL          ______
+     635130     0001 MP_BR_IO Shield ADL-ThinMiniITX...
+
+0001 KANBAN     0400 09000354                                            ______
+     1404994    0001 IO Shield K3836-Q
+
+0001 KANBAN     0400 09902060                               0011960033   ______
+     1113678    0001 BATTERIE 3V 220MAH CR2032 CAB LI/MNO2
+
+0001 KANBAN     0400 09904539                                            ______
+     1155062    0001 Zurichtung K06.01087 J_PWR_DC-IN_JACK_
+
+0001 KANBAN     0400 93100288                                            ______
+     1440825    0001 Laserfolie/silber/glanz/ 2Schicht  40m
+
+0001 KANBAN     0400 99901302                               0013601897   ______
+     1516171    0001 Reinigungsmittel Multi EX VR-HPA
+
+0001 KANBAN     0400 99901410                                            ______
+     1576668    0001 Carbonband 110 mm Etisys Drucker Harz
+
+0001 KANBAN     0400 99901544                               0011953244   ______
+     1154983    0001 Lötpaste/bleifrei
+
+0001 KANBAN     0400 99901545                               0013064545   ______
+     1501123    0001 Lötpaste-48W TM-HP(L) !!Dosen!!
+
+0001 KANBAN     0400 99901546                               0011878009   ______
+     1440324    0001 Lötpaste bleifrei
+
+0001 KANBAN     0400 K02.00604                                           ______
+     146454     0001 C__560U_20%_SMT_06.3x8_2V5_AL
+
+0001 KANBAN     0400 K02.00605                                           ______
+     146455     0001 C__330U_20%_SMT_08x11.5_16V_AL
+
+0001 KANBAN     0400 K02.00607                                           ______
+     442845     0001 C__470U_20%_SMT_06.3x8_6V3_AL
+
+0001 KANBAN     0400 K02.00609                                           ______
+     146458     0001 C__270U_20%_SMT_06.3x8_16V_AL
+
+0001 KANBAN     0400 K02.00645                                           ______
+     1452249    0001 C-560UF/6,3x8/Pol/2V5/20%/7mR RM2,50
+
+Zähldatum         : .................. Erfassungsdatum   : ..................
+
+Name              : .................. Erfasser          : ..................
+
+Name              : .................. Name              : ..................
+         INVENTUR-AUFNAHME-LISTE FÜR STICHTAGSINVENTUR
+         ================================================
+
+Lager-Nummer.:  040 Mauerstetten                     Inventur Nr..:  4162
+Lager-Typ....:  150 Kanban                           Seite........:  2/15
+Datum........:  17.12.2025                           Hauptzählung
+
+
+Pos  Lagerplatz Werk Materialnummer.....                    Charge....   Menge.
+     Quantnum.  Lort Materialkurztext...                    B S Sonderbestand
+
+
+
+0001 KANBAN     0400 K05.00762                                           ______
+     146459     0001 J_TH_6X1-XH_2.5MM_P_ST
+
+0001 KANBAN     0400 K05.01863                              PAL          ______
+     510032     0001 J_DDR4_BL_288P_30uGOLD
+
+0001 KANBAN     0400 K05.01864                                           ______
+     565455     0001 J_DDR4_BU_288P_30uGOLD
+
+0001 KANBAN     0400 K05.01865                              PAL          ______
+     303856     0001 J_PCIE_X16_EJECTOR_RIGHT
+
+0001 KANBAN     0400 K05.01866                                           ______
+     146464     0001 J_MINI_DIN_2x6P_PC99
+
+0001 KANBAN     0400 K05.01869                                           ______
+     146467     0001 J_AZALIA_X3
+
+0001 KANBAN     0400 K05.01870                                           ______
+     441472     0001 J_SATA3_WHITE
+
+0001 KANBAN     0400 K05.01871                                           ______
+     146469     0001 J_DVI-D_SHLD
+
+0001 KANBAN     0400 K05.01873                                           ______
+     146470     0001 J_HDR_8P_RM2.5
+
+0001 KANBAN     0400 K05.01874                              MIG0003095   ______
+     146471     0001 00754484001009002K05.01874
+
+0001 KANBAN     0400 K05.01876                                           ______
+     146473     0001 J_STL_R2_19P_USB3
+
+0001 KANBAN     0400 K05.01877                              MIG0003096   ______
+     146474     0001 00753272007014001K05.01877
+
+0001 KANBAN     0400 K05.01878                                           ______
+     441473     0001 J_MINIFIT_2R_4P_COD
+
+0001 KANBAN     0400 K05.01879                                           ______
+     146476     0001 J_HDR_3P_RM2.5
+
+0001 KANBAN     0400 K05.01880                                           ______
+     146477     0001 J_HDR_4P_RM2.5
+
+Zähldatum         : .................. Erfassungsdatum   : ..................
+
+Name              : .................. Erfasser          : ..................
+
+Name              : .................. Name              : ..................
+         INVENTUR-AUFNAHME-LISTE FÜR STICHTAGSINVENTUR
+         ================================================
+
+Lager-Nummer.:  040 Mauerstetten                     Inventur Nr..:  4162
+Lager-Typ....:  150 Kanban                           Seite........:  3/15
+Datum........:  17.12.2025                           Hauptzählung
+
+
+Pos  Lagerplatz Werk Materialnummer.....                    Charge....   Menge.
+     Quantnum.  Lort Materialkurztext...                    B S Sonderbestand
+
+
+
+0001 KANBAN     0400 K05.01881                                           ______
+     146478     0001 J_HDR_4P_RM2.5_BROWN
+
+0001 KANBAN     0400 K05.01882                              MIG0003097   ______
+     146479     0001 00752192001014001K05.01882
+
+0001 KANBAN     0400 K05.01883                                           ______
+     146480     0001 J_STL_RM2.54_2R_10P_3C_YELLOW
+
+0001 KANBAN     0400 K05.01884                              MIG0003098   ______
+     146481     0001 00731940005032001K05.01884
+
+0001 KANBAN     0400 K05.01886                                           ______
+     281132     0001 J_SPDIF_CON_INT_3P
+
+0001 KANBAN     0400 K05.01887                                           ______
+     146483     0001 J_WSTL_R2.54_2R_26P
+
+0001 KANBAN     0400 K05.01888                              0010533929   ______
+     444614     0001 J_WSTL_R2.54_2R_10P_10C
+
+0001 KANBAN     0400 K05.01889                                           ______
+     146484     0001 J_STL_RM2.54_1R_4P
+
+0001 KANBAN     0400 K05.01903                                           ______
+     146486     0001 J_STL_RM2_2R_10P
+
+0001 KANBAN     0400 K05.01904                                           ______
+     146487     0001 J_STL_RM2.54_1R_6P_JUMPER
+
+0001 KANBAN     0400 K05.01905                                           ______
+     146488     0001 J_POWER_AMILO
+
+0001 KANBAN     0400 K05.01908                                           ______
+     146491     0001 J_STL_RM2.54_1R_5P
+
+0001 KANBAN     0400 K05.01909                                           ______
+     1568395    0001 J_STL_RM2.54_1R_3P_JUMPER
+
+0001 KANBAN     0400 K05.01910                                           ______
+     146493     0001 J_STL_2R_6P
+
+0001 KANBAN     0400 K05.01912                                           ______
+     146495     0001 J_STL_RM2.54_2R_10P_9/10C_ BLACK
+
+Zähldatum         : .................. Erfassungsdatum   : ..................
+
+Name              : .................. Erfasser          : ..................
+
+Name              : .................. Name              : ..................
+         INVENTUR-AUFNAHME-LISTE FÜR STICHTAGSINVENTUR
+         ================================================
+
+Lager-Nummer.:  040 Mauerstetten                     Inventur Nr..:  4162
+Lager-Typ....:  150 Kanban                           Seite........:  4/15
+Datum........:  17.12.2025                           Hauptzählung
+
+
+Pos  Lagerplatz Werk Materialnummer.....                    Charge....   Menge.
+     Quantnum.  Lort Materialkurztext...                    B S Sonderbestand
+
+
+
+0001 KANBAN     0400 K05.01913                                           ______
+     146496     0001 J_STL_R2_4P
+
+0001 KANBAN     0400 K05.01914                                           ______
+     146497     0001 J_STL_R2_8P_THIN_CLIENT
+
+0001 KANBAN     0400 K05.01916                              MIG0039027   ______
+     154766     0001 00752361007001000K05.01916
+
+0001 KANBAN     0400 K05.01917                                           ______
+     441477     0001 J_STL_RM2.54_1R_2P
+
+0001 KANBAN     0400 K05.01918                                           ______
+     146500     0001 J_STL_R2_10P
+
+0001 KANBAN     0400 K05.01923                                           ______
+     146504     0001 J_STL_RM2.54_2R_10P
+
+0001 KANBAN     0400 K05.01924                                           ______
+     146505     0001 J_STL_RM2.54_1R_5P_USB
+
+0001 KANBAN     0400 K05.01925                                           ______
+     146506     0001 J_STL_RM2.54_2R_10P_10C_ COLORED
+
+0001 KANBAN     0400 K05.01926                                           ______
+     146507     0001 J_PCIE_X1_WO-EJECTOR
+
+0001 KANBAN     0400 K05.01930                                           ______
+     510752     0001 ,_PCIE_X16_164P_M_BOARDL
+
+0001 KANBAN     0400 K05.01931                                           ______
+     348889     0001 J_WSTL_R2.54_2R_10P_9C_BLACK
+
+0001 KANBAN     0400 K05.01936                              MIG0000804   ______
+     146512     0001 00739479010001000K05.01936
+
+0001 KANBAN     0400 K05.01949                                           ______
+     539971     0001 J_DVI-I_SH_HIGH
+
+0001 KANBAN     0400 K05.01950                                           ______
+     515550     0001 J_COM_HIGH_RISE
+
+0001 KANBAN     0400 K05.01960                                           ______
+     552891     0001 J_PCI_120P_METAL
+
+Zähldatum         : .................. Erfassungsdatum   : ..................
+
+Name              : .................. Erfasser          : ..................
+
+Name              : .................. Name              : ..................
+         INVENTUR-AUFNAHME-LISTE FÜR STICHTAGSINVENTUR
+         ================================================
+
+Lager-Nummer.:  040 Mauerstetten                     Inventur Nr..:  4162
+Lager-Typ....:  150 Kanban                           Seite........:  5/15
+Datum........:  17.12.2025                           Hauptzählung
+
+
+Pos  Lagerplatz Werk Materialnummer.....                    Charge....   Menge.
+     Quantnum.  Lort Materialkurztext...                    B S Sonderbestand
+
+
+
+0001 KANBAN     0400 K05.01992                                           ______
+     146524     0001 J_PLG_WTB_2X12/2.54MM_THT_ST _-40_105.
+
+0001 KANBAN     0400 K05.01994                                           ______
+     146525     0001 J_REC_AUDIO_15P_THT_RA_3XHD _-25_85...
+
+0001 KANBAN     0400 K05.01995                                           ______
+     146526     0001 J_PLG_WTB_2X5/2.54MM_THT_ST_ CODED P9.
+
+0001 KANBAN     0400 K05.02072                                           ______
+     525147     0001 J_SKT_PCI_120P_THT_ST_-40_105_
+
+0001 KANBAN     0400 K05.02085                              0010604485   ______
+     337070     0001 CON-PCIe/RM1/
+
+0001 KANBAN     0400 K05.02150                                           ______
+     1173245    0001 J_PLG_JMP w. H_6/1/2X3/2.54MM_
+
+0001 KANBAN     0400 K05.02151                              0010727633   ______
+     1173240    0001 J_REC_AUDIO_1PORT_THT_RA_LIME_
+
+0001 KANBAN     0400 K05.02152                                           ______
+     241798     0001 J_HDR_4P_RM2.5
+
+0001 KANBAN     0400 K05.02157                              0011828883   ______
+     1173308    0001 CON-1x2/ST/RM2,5/
+
+0001 KANBAN     0400 K06.00505                                           ______
+     1173233    0001 J_REC_USB-A_4/1/1X4/2_THT_ST_
+
+0001 KANBAN     0400 K06.01046                                           ______
+     1062075    0001 J_REC_USB-A_RA_BLACK
+
+0001 KANBAN     0400 K06.01051                              0010578788   ______
+     449344     0001 J_REC_USB3_1P_THT
+
+0001 KANBAN     0400 K06.01054                              0010729637   ______
+     518797     0001 J_COMB_GE-2xUSB2
+
+0001 KANBAN     0400 K06.01056                                           ______
+     146536     0001 J_SATA3_SHORT_WHITE
+
+0001 KANBAN     0400 K06.01057                                           ______
+     146537     0001 J_REC_USBA_1P_RA_BLACK
+
+Zähldatum         : .................. Erfassungsdatum   : ..................
+
+Name              : .................. Erfasser          : ..................
+
+Name              : .................. Name              : ..................
+         INVENTUR-AUFNAHME-LISTE FÜR STICHTAGSINVENTUR
+         ================================================
+
+Lager-Nummer.:  040 Mauerstetten                     Inventur Nr..:  4162
+Lager-Typ....:  150 Kanban                           Seite........:  6/15
+Datum........:  17.12.2025                           Hauptzählung
+
+
+Pos  Lagerplatz Werk Materialnummer.....                    Charge....   Menge.
+     Quantnum.  Lort Materialkurztext...                    B S Sonderbestand
+
+
+
+0001 KANBAN     0400 K06.01058                                           ______
+     441474     0001 J_DP_1PORT
+
+0001 KANBAN     0400 K06.01059                                           ______
+     146539     0001 J_RH45_TAB-UP
+
+0001 KANBAN     0400 K06.01062                                           ______
+     511233     0001 J_REC_USB3_2P_RA_
+
+0001 KANBAN     0400 K06.01063                                           ______
+     146542     0001 J_REC_USB3_3P_RED
+
+0001 KANBAN     0400 K06.01064                                           ______
+     511234     0001 J_MINI_DIN_6P_PURPLE
+
+0001 KANBAN     0400 K06.01065                                           ______
+     449386     0001 J_PWR_SATA
+
+0001 KANBAN     0400 K06.01066                                           ______
+     146545     0001 J_MINIFIT_1R_2P
+
+0001 KANBAN     0400 K06.01067                                           ______
+     146546     0001 J_AUDIO_JACK_BLUE
+
+0001 KANBAN     0400 K06.01068                                           ______
+     295356     0001 J_REC_USB2_2P_RA
+
+0001 KANBAN     0400 K06.01069                                           ______
+     295357     0001 J_HDR_4P_RM2.54
+
+0001 KANBAN     0400 K06.01070                              0013653787   ______
+     1564824    0001 J_COMB_GE-2xUSB
+
+0001 KANBAN     0400 K06.01071                                           ______
+     331827     0001 J_RJ45_1P
+
+0001 KANBAN     0400 K06.01072                                           ______
+     331828     0001 J_DSUB_2X9P_PC99
+
+0001 KANBAN     0400 K06.01073                                           ______
+     146552     0001 J_REC_USB3A_1P_VERT_
+
+0001 KANBAN     0400 K06.01074                                           ______
+     146553     0001 J_REC_USB3A_1P_VERT_RED
+
+Zähldatum         : .................. Erfassungsdatum   : ..................
+
+Name              : .................. Erfasser          : ..................
+
+Name              : .................. Name              : ..................
+         INVENTUR-AUFNAHME-LISTE FÜR STICHTAGSINVENTUR
+         ================================================
+
+Lager-Nummer.:  040 Mauerstetten                     Inventur Nr..:  4162
+Lager-Typ....:  150 Kanban                           Seite........:  7/15
+Datum........:  17.12.2025                           Hauptzählung
+
+
+Pos  Lagerplatz Werk Materialnummer.....                    Charge....   Menge.
+     Quantnum.  Lort Materialkurztext...                    B S Sonderbestand
+
+
+
+0001 KANBAN     0400 K06.01075                                           ______
+     146554     0001 J_RJ45_2xUSB3_RED
+
+0001 KANBAN     0400 K06.01076                              MIG0038904   ______
+     156309     0001 00754878001002000K06.01076
+
+0001 KANBAN     0400 K06.01080                                           ______
+     295359     0001 J_SKT_AUDIO
+
+0001 KANBAN     0400 K06.01081                                           ______
+     441475     0001 J_RJ45_2xUSB3
+
+0001 KANBAN     0400 K06.01087                              0010598844   ______
+     328361     0001 J_PWR_DC-IN_JACK_8-36V_10A_w- SCREW
+
+0001 KANBAN     0400 K06.01089                                           ______
+     146560     0001 J_VGA_SLIM
+
+0001 KANBAN     0400 K06.01092                                           ______
+     146561     0001 J_SKT_HEADSET
+
+0001 KANBAN     0400 K06.01095                                           ______
+     146562     0001 J_DDR4_BL_288P
+
+0001 KANBAN     0400 K06.01096                                           ______
+     146563     0001 J_DDR4_BU_288P
+
+0001 KANBAN     0400 K06.01098                                           ______
+     146564     0001 J_REC_USB-C_USB_A_RED
+
+0001 KANBAN     0400 K06.01105                                           ______
+     146568     0001 J_PCIE_X1_36P
+
+0001 KANBAN     0400 K06.01133                              0010842823   ______
+     503389     0001 J_REC_USB-A_9_THT_ST_USB 3.0_ BLK_-55.
+
+0001 KANBAN     0400 K06.01154                                           ______
+     146571     0001 J_REC_PWR-ATX_24/2X12/4.2MM_ THT_ST...
+
+0001 KANBAN     0400 K06.01155                                           ______
+     146572     0001 J_REC_PWR-ATX_8/2X4/4.2MM_THT_ ST_-40.
+
+0001 KANBAN     0400 K06.01156                                           ______
+     146573     0001 J_REC_RJ45/MAG/2xUSB3_32/LED_ THT_RA..
+
+Zähldatum         : .................. Erfassungsdatum   : ..................
+
+Name              : .................. Erfasser          : ..................
+
+Name              : .................. Name              : ..................
+         INVENTUR-AUFNAHME-LISTE FÜR STICHTAGSINVENTUR
+         ================================================
+
+Lager-Nummer.:  040 Mauerstetten                     Inventur Nr..:  4162
+Lager-Typ....:  150 Kanban                           Seite........:  8/15
+Datum........:  17.12.2025                           Hauptzählung
+
+
+Pos  Lagerplatz Werk Materialnummer.....                    Charge....   Menge.
+     Quantnum.  Lort Materialkurztext...                    B S Sonderbestand
+
+
+
+0001 KANBAN     0400 K06.01157                                           ______
+     303471     0001 J_REC_RJ45/MAG/2xUSB3_32/LED_ THT_RA..
+
+0001 KANBAN     0400 K06.01158                              MIG0039352   ______
+     489600     0001 00744574004004000K06.01158
+
+0001 KANBAN     0400 K06.01159                              0011881311   ______
+     1407174    0001 J_CMB_USB-A_2PORT_THT_RA_RJ45 _0_70_0A
+
+0001 KANBAN     0400 K06.01162                              0010707888   ______
+     437785     0001 CON-AP421MAB1T-202A-R//
+
+0001 KANBAN     0400 K06.01165                                           ______
+     845462     0001 CON-APCI0623-K001C/THT/
+
+0001 KANBAN     0400 K06.01242                                           ______
+     146577     0001 J_REC_PCIe_98P_THT_ST_BLUE_-40
+
+0001 KANBAN     0400 K06.01252                                           ______
+     1173192    0001 J_REC_PCIe_2P_THT_ST_LATCH_LEF
+
+0001 KANBAN     0400 K06.01255                                           ______
+     1173231    0001 J_REC_WTB_10P/4.2MM_SMT_ST_-25
+
+0001 KANBAN     0400 K06.01274                              PAL          ______
+     1173242    0001 J_REC_RJ45_W/LED/MAG_1PORT_THT
+
+0001 KANBAN     0400 K12.00162                                           ______
+     281133     0001 SW_TACT_THT_H3.15mm
+
+0001 KANBAN     0400 K15.00090                                           ______
+     1152933    0001 BAT_3V_CR2032_2P
+
+0001 KANBAN     0400 K15.00091                                           ______
+     146580     0001 J_SKT_BAT-HOLDER_CR2032_THT
+
+0001 KANBAN     0400 K30.00245                                           ______
+     1479956    0001 Rohlabel 17x6 Polyester Weiß Einreihig
+
+0001 KANBAN     0400 K30.00251                              0013166347   ______
+     1500759    0001 Rohlabel (Kontron ohne UL) 28x10 Polye
+
+0001 KANBAN     0400 K30.00538                              0013426353   ______
+     1350110    0001 Rohlabel 25,4x6,35 Polyester Weiß Drei
+
+Zähldatum         : .................. Erfassungsdatum   : ..................
+
+Name              : .................. Erfasser          : ..................
+
+Name              : .................. Name              : ..................
+         INVENTUR-AUFNAHME-LISTE FÜR STICHTAGSINVENTUR
+         ================================================
+
+Lager-Nummer.:  040 Mauerstetten                     Inventur Nr..:  4162
+Lager-Typ....:  150 Kanban                           Seite........:  9/15
+Datum........:  17.12.2025                           Hauptzählung
+
+
+Pos  Lagerplatz Werk Materialnummer.....                    Charge....   Menge.
+     Quantnum.  Lort Materialkurztext...                    B S Sonderbestand
+
+
+
+0001 KANBAN     0400 K30.01337                              0011233197   ______
+     1499795    0001 Rohlabel 8x8 Polyester Weiß einreihig
+
+0001 KANBAN     0400 K30.01907                              0011857027   ______
+     1357604    0001 MP_MSC_ANCHOR_5.08MM
+
+0001 KANBAN     0400 K30.01908                                           ______
+     146582     0001 SPK_BUZZER_2.4kHZ_85DB_2V
+
+0001 KANBAN     0400 K30.01909                              0010768526   ______
+     1174585    0001 TÜV Label 8x8 Polyester Weiß Einreihig
+
+0001 KANBAN     0400 K30.01923                              PAL          ______
+     1056189    0001 Polster 10er
+
+0001 KANBAN     0400 K30.01927                                           ______
+     1470890    0001 Rohlabel 40x5 Polyester Weiß Einreihig
+
+0001 KANBAN     0400 K30.01928                                           ______
+     1148097    0001 Rohlabel 20x8 Polyester Weiß Einreihig
+
+0001 KANBAN     0400 K30.01934                                           ______
+     327600     0001 Label ESD 40X70 Polyester gelb Einreih
+
+0001 KANBAN     0400 K30.01938                              0008484778   ______
+     347554     0001 SPK_PIEZO_BUZZER_4kHZ_70DB_5V
+
+0001 KANBAN     0400 K30.01970                                           ______
+     537450     0001 KEU_DU-DVD_2020.01
+
+0001 KANBAN     0400 K30.01985                                           ______
+     146586     0001 MP_PCIE_LATCH_ONLY
+
+0001 KANBAN     0400 K30.01997                                           ______
+     1488808    0001 Rohlabel 150x100 Polyester Weiß Einrei
+
+0001 KANBAN     0400 K30.02199                              0010645304   ______
+     1148311    0001 Rohlabel (Kontron, 48x70 Pol)
+
+0001 KANBAN     0400 K30.02236                              0013551676   ______
+     1564338    0001 Haftetiketten 80x38 gelb
+
+0001 KANBAN     0400 K31.00134                                           ______
+     523760     0001 Umkarton 10er
+
+Zähldatum         : .................. Erfassungsdatum   : ..................
+
+Name              : .................. Erfasser          : ..................
+
+Name              : .................. Name              : ..................
+         INVENTUR-AUFNAHME-LISTE FÜR STICHTAGSINVENTUR
+         ================================================
+
+Lager-Nummer.:  040 Mauerstetten                     Inventur Nr..:  4162
+Lager-Typ....:  150 Kanban                           Seite........:  10/15
+Datum........:  17.12.2025                           Hauptzählung
+
+
+Pos  Lagerplatz Werk Materialnummer.....                    Charge....   Menge.
+     Quantnum.  Lort Materialkurztext...                    B S Sonderbestand
+
+
+
+0001 KANBAN     0400 K31.00135                                           ______
+     560888     0001 Gefache 10er
+
+0001 KANBAN     0400 K31.00137                                           ______
+     1014984    0001 Beipack MB
+
+0001 KANBAN     0400 K31.00138                                           ______
+     328095     0001 Steg 10er
+
+0001 KANBAN     0400 M16.00836                                           ______
+     146588     0001 IO SHIELD D3236S C26361-K716- B80-*-YE
+
+0001 KANBAN     0400 M16.00840                                           ______
+     1312978    0001 MM_SC_PCIE_M3x0.5x3.2
+
+0001 KANBAN     0400 M16.00843                                           ______
+     156085     0001 MM_MSC_PCIE_STANDOFF_M.2_ M3x4.1
+
+0001 KANBAN     0400 M16.00844                                           ______
+     146591     0001 MM_MSC_PLASTIC-PIN-FILLER
+
+0001 KANBAN     0400 M16.00845                                           ______
+     146592     0001 MM_SC_M2X9,6 KREUZSCHLITZ
+
+0001 KANBAN     0400 M16.00848                              MIG0039060   ______
+     154753     0001 00745249002001000M16.00848
+
+0001 KANBAN     0400 M16.00849                                           ______
+     146594     0001 REAR WALL ASSY
+
+0001 KANBAN     0400 M16.00851                                           ______
+     1234378    0001 Screws for PCIe Fujitsu-Boards
+
+0001 KANBAN     0400 M16.00854                              MIG0039056   ______
+     154750     0001 00727768001001000M16.00854
+
+0001 KANBAN     0400 M16.00855                              MIG0040948   ______
+     154168     0001 00739058001001000M16.00855
+
+0001 KANBAN     0400 M16.00856                              0011124344   ______
+     912802     0001 IO SHIELD D3003  (+D3313-S) (K716-B290
+
+0001 KANBAN     0400 M16.00857                                           ______
+     438503     0001 Schrauben D3313
+
+Zähldatum         : .................. Erfassungsdatum   : ..................
+
+Name              : .................. Erfasser          : ..................
+
+Name              : .................. Name              : ..................
+         INVENTUR-AUFNAHME-LISTE FÜR STICHTAGSINVENTUR
+         ================================================
+
+Lager-Nummer.:  040 Mauerstetten                     Inventur Nr..:  4162
+Lager-Typ....:  150 Kanban                           Seite........:  11/15
+Datum........:  17.12.2025                           Hauptzählung
+
+
+Pos  Lagerplatz Werk Materialnummer.....                    Charge....   Menge.
+     Quantnum.  Lort Materialkurztext...                    B S Sonderbestand
+
+
+
+0001 KANBAN     0400 M16.00861                              PAL          ______
+     1055733    0001 IO SHIELD D3433/34
+
+0001 KANBAN     0400 M16.00862                                           ______
+     601477     0001 I/O SHIELD D3598-B
+
+0001 KANBAN     0400 M16.00863                              MIG0039059   ______
+     154754     0001 00753578002001000M16.00863
+
+0001 KANBAN     0400 M16.00868                                           ______
+     1534202    0001 IO SHIELD D3401/02
+
+0001 KANBAN     0400 M16.01004                                           ______
+     146598     0001 MM_SC_M3X3.2_PAN_PH_ST_NI_
+
+0001 KANBAN     0400 M16.01005                              PAL          ______
+     1433990    0001 MP_AS_LGA1700_HOLDER_ILM_SS_ STD
+
+0001 KANBAN     0400 M16.01006                              0013461605   ______
+     1433991    0001 TM_PA_ADL-S_PCH_AL_BLACK_ PUSH PIN_STD
+
+0001 KANBAN     0400 M16.01071                              MIG0039975   ______
+     154751     0001 00747402002001000M16.01071
+
+0001 KANBAN     0400 M16.01117                                           ______
+     146599     0001 IO Shield ADL-MicroATX
+
+0001 KANBAN     0400 M16.01127                              MIG0037058   ______
+     152297     0001 00754318001002000M16.01127
+
+0001 KANBAN     0400 M16.01160                              0013430238   ______
+     1547026    0001 KK-TM_PA_ADL-S_CPUVR_AL_SKREW_
+
+0001 KANBAN     0400 M16.01178                                           ______
+     295314     0001 IO Shield ADL-MiniITX
+
+0001 KANBAN     0400 M16.01217                                           ______
+     146600     0001 KK35/31/12 Q87 IND KK35/31/ 12 PP BRAS
+
+0001 KANBAN     0400 M16.01218                                           ______
+     440095     0001 J_BGA57_PHC983C01022 PCH-Kühlkörper
+
+0001 KANBAN     0400 M16.01219                                           ______
+     825681     0001 J_SKT_LG115X_BACKPLATE_NEW
+
+Zähldatum         : .................. Erfassungsdatum   : ..................
+
+Name              : .................. Erfasser          : ..................
+
+Name              : .................. Name              : ..................
+         INVENTUR-AUFNAHME-LISTE FÜR STICHTAGSINVENTUR
+         ================================================
+
+Lager-Nummer.:  040 Mauerstetten                     Inventur Nr..:  4162
+Lager-Typ....:  150 Kanban                           Seite........:  12/15
+Datum........:  17.12.2025                           Hauptzählung
+
+
+Pos  Lagerplatz Werk Materialnummer.....                    Charge....   Menge.
+     Quantnum.  Lort Materialkurztext...                    B S Sonderbestand
+
+
+
+0001 KANBAN     0400 M16.01220                              PAL          ______
+     1445589    0001 J_SKT_LGA11X_LOW
+
+0001 KANBAN     0400 M16.01221                                           ______
+     146602     0001 KK35/31/15 H310IND KK35/31/15 PP BRASS
+
+0001 KANBAN     0400 Z01.00108                                           ______
+     596070     0001 ESD-Beutel 80x120x0,06mm PERMASTAT® Ve
+
+0001 KANBAN     0400 Z01.00121                              0011220283   ______
+     799248     0001 ESD-Beutel 203x254mm SX19 ESD-Abschirm
+
+0001 KANBAN     0400 Z01.00148                              MIG0038912   ______
+     255374     0001 00763352001001000Z01.00148
+
+0001 KANBAN     0400 Z01.00154                                           ______
+     618564     0001 ESD-Beutel 254x356mm SX19 ESD-Abschirm
+
+0001 KANBAN     0400 Z01.00187                                           ______
+     1532614    0001 Verpackungsbeutel 200x250x0,10 mm Perm
+
+0001 KANBAN     0400 Z01.00232                                           ______
+     618574     0001 ESD-Beutel 76x127mm Schutzbeutel Dri-S
+
+0001 KANBAN     0400 Z01.00233                              0011779322   ______
+     929120     0001 ESD-Beutel 127x203mm Abschirmbeutel Ty
+
+0001 KANBAN     0400 Z01.00261                                           ______
+     167429     0001 ESD-Beutel 127x203mm UniStat 4300 tran
+
+0001 KANBAN     0400 Z01.00264                              0011070839   ______
+     616849     0001 ESD-Beutel 203x457mm HIGHSHIELD® Verpa
+
+0001 KANBAN     0400 Z01.00270                              MIG0040982   ______
+     468671     0001 00733639001001000Z01.00270
+
+0001 KANBAN     0400 Z01.00274                              0011037380   ______
+     584875     0001 ESD-Beutel 76x127mm HIGHSHIELD® Verpac
+
+0001 KANBAN     0400 Z01.00275                                           ______
+     146603     0001 ESD-Beutel 76X127mm UniStat 4300 trans
+
+0001 KANBAN     0400 Z01.00279                                           ______
+     1158184    0001 ESD-Beutel 203x305mm UniStat 4300 tran
+
+Zähldatum         : .................. Erfassungsdatum   : ..................
+
+Name              : .................. Erfasser          : ..................
+
+Name              : .................. Name              : ..................
+         INVENTUR-AUFNAHME-LISTE FÜR STICHTAGSINVENTUR
+         ================================================
+
+Lager-Nummer.:  040 Mauerstetten                     Inventur Nr..:  4162
+Lager-Typ....:  150 Kanban                           Seite........:  13/15
+Datum........:  17.12.2025                           Hauptzählung
+
+
+Pos  Lagerplatz Werk Materialnummer.....                    Charge....   Menge.
+     Quantnum.  Lort Materialkurztext...                    B S Sonderbestand
+
+
+
+0001 KANBAN     0400 Z01.00281                                           ______
+     786058     0001 ESD-Beutel 80x120x0,1mm PERMASTAT® Ver
+
+0001 KANBAN     0400 Z01.00300                                           ______
+     1016217    0001 ESD-Beutel 152x254mm Abschirmbeutel Ty
+
+0001 KANBAN     0400 Z01.00373                                           ______
+     559494     0001 ESD-Beutel 254x406mm Abschirmbeutel Ty
+
+0001 KANBAN     0400 Z01.00431                              MIG0038913   ______
+     146604     0001 00764143001001000Z01.00431
+
+0001 KANBAN     0400 Z01.00432                                           ______
+     618523     0001 ESD-Beutel 305x457mm ESD-Abschirmbeute
+
+0001 KANBAN     0400 Z01.00433                                           ______
+     603355     0001 ESD-Beutel 254x660mm ESD-Abschirmbeute
+
+0001 KANBAN     0400 Z01.00451                                           ______
+     1362242    0001 ESD-Beutel 76x102mm SX19 ESD-Abschirmb
+
+0001 KANBAN     0400 Z01.00476                              0011101506   ______
+     649450     0001 ESD-Beutel 127x203mm
+
+0001 KANBAN     0400 Z01.00477                              0008466769   ______
+     448449     0001 ESD-Beutel 102x152mm
+
+0001 KANBAN     0400 Z01.00478                              MIG0038944   ______
+     198574     0001 00760311002001000Z01.00478
+
+0001 KANBAN     0400 Z01.00479                              MIG0037014   ______
+     297370     0001 00744158001006000Z01.00479
+
+0001 KANBAN     0400 Z01.00508                              PAL          ______
+     1575960    0001 Tüte 305/457
+
+0001 KANBAN     0400 Z01.00519                              MIG0036496   ______
+     151686     0001 00755092003001000Z01.00519
+
+0001 KANBAN     0400 Z01.00525                                           ______
+     756214     0001 Kreppband Antistatisch Breite 18mm
+
+0001 KANBAN     0400 Z01.00527                                           ______
+     756215     0001 Splice Clip Frame Type MOA 20 Clips je
+
+Zähldatum         : .................. Erfassungsdatum   : ..................
+
+Name              : .................. Erfasser          : ..................
+
+Name              : .................. Name              : ..................
+         INVENTUR-AUFNAHME-LISTE FÜR STICHTAGSINVENTUR
+         ================================================
+
+Lager-Nummer.:  040 Mauerstetten                     Inventur Nr..:  4162
+Lager-Typ....:  150 Kanban                           Seite........:  14/15
+Datum........:  17.12.2025                           Hauptzählung
+
+
+Pos  Lagerplatz Werk Materialnummer.....                    Charge....   Menge.
+     Quantnum.  Lort Materialkurztext...                    B S Sonderbestand
+
+
+
+0001 KANBAN     0400 Z01.00528                                           ______
+     756218     0001 ABDECKFOLIENVERLÄNGERUNG 8mm&12mm,silb
+
+0001 KANBAN     0400 Z01.00544                                           ______
+     756220     0001 ABDECKFOLIENVERLÄNGERUNG 24mm,silber,L
+
+0001 KANBAN     0400 Z01.00549                              MIG0041009   ______
+     223569     0001 00763186001006000Z01.00549
+
+0001 KANBAN     0400 Z01.00553                                           ______
+     756221     0001 Spleissaufkleber 8 mm
+
+0001 KANBAN     0400 Z01.00554                                           ______
+     756222     0001 Spleissaufkleber 12 mm
+
+0001 KANBAN     0400 Z01.00555                                           ______
+     756223     0001 Spleissaufkleber 16 mm
+
+0001 KANBAN     0400 Z01.00556                                           ______
+     756224     0001 Spleissaufkleber 24 mm
+
+0001 KANBAN     0400 Z01.00557                                           ______
+     756219     0001 Abdeckfolienverlängerung 16 mm
+
+0001 KANBAN     0400 Z01.00560                                           ______
+     786051     0001 ESD-Beutel/254x660mm DRY-SHIELD Feucht
+
+0001 KANBAN     0400 Z01.00578                                           ______
+     756212     0001 Nachfuellen,Schablone vorgetr. Tuecher
+
+0001 KANBAN     0400 Z01.00579                                           ______
+     756211     0001 Schablone vorgetraenkte Tuecher, Dose
+
+0001 KANBAN     0400 Z01.00583                              0011709817   ______
+     872483     0001 Hnd vorgetränkte Tücher Nachfüllen
+
+0001 KANBAN     0400 Z01.00584                                           ______
+     756209     0001 Handreinigung vorgetränke Tücher Dose
+
+0001 KANBAN     0400 Z01.00585                                           ______
+     756213     0001 Reinigungsrollen Puro 400mm / 8m
+
+0001 KANBAN     0400 Z01.00732                              MIG0036980   ______
+     297375     0001 00759775001001000Z01.00732
+
+Zähldatum         : .................. Erfassungsdatum   : ..................
+
+Name              : .................. Erfasser          : ..................
+
+Name              : .................. Name              : ..................
+         INVENTUR-AUFNAHME-LISTE FÜR STICHTAGSINVENTUR
+         ================================================
+
+Lager-Nummer.:  040 Mauerstetten                     Inventur Nr..:  4162
+Lager-Typ....:  150 Kanban                           Seite........:  15/15
+Datum........:  17.12.2025                           Hauptzählung
+
+
+Pos  Lagerplatz Werk Materialnummer.....                    Charge....   Menge.
+     Quantnum.  Lort Materialkurztext...                    B S Sonderbestand
+
+
+
+0001 KANBAN     0400 Z01.00733                                           ______
+     264036     0001 Verpackungsbeutel antistatisch 152x254
+
+0001 KANBAN     0400 Z01.00772                              MIG0036982   ______
+     202596     0001 00763580003001000Z01.00772
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zähldatum         : .................. Erfassungsdatum   : ..................
+
+Name              : .................. Erfasser          : ..................
+
+Name              : .................. Name              : ..................
